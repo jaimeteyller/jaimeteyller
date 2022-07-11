@@ -1,2 +1,3 @@
-# skills-learning
-Repository for different projects to test tech stacks and improve skills.
+# Software Portfolio:
+
+Contains a set software projects, it's a work in progress.
