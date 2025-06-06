@@ -38,7 +38,7 @@ My passions include being with my family, solving complex problems, optimizing s
 ## 😎 Fun Facts
 
 - I believe every bug is just a misunderstood feature.
-- Nowadays, coffee is one of my favorite dependencies — almost as essential as enjoying life itself (and I never let either run out).
+- Nowadays, enjoying coffee without sugar almost as enjoying life itself.
 - Forever searching for the perfect balance between living and continuous improvement.
 - I take my code seriously, but not myself.
 
